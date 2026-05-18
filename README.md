@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-Name:  VIMALRAJ R
-Reg No : 212223040242
+## Name:  G.Nitin karthikeyan
+## Reg No : 212224040227
 
 ## Aim:
 
