@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
 ## Name:  G.Nitin karthikeyan
-## Reg No : 212224040227
+## Reg No : 21222404022 7
 
 ## Aim:
 
